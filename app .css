@@ -1,0 +1,56 @@
+body{
+  background-color: bisque;
+  color: black;
+  align-content: center;
+}
+#root {
+  font-family: Arial, sans-serif;
+  padding: 25px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+}
+
+form {
+  background: #f2f5f9;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+input {
+  display: block;
+  width: 95%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.book-card {
+  border: 1px solid gray;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  background: #f2f5f9;
+}
